@@ -6,7 +6,7 @@ Working:
 
 Data Preparation: Load the dataset and preprocess the text data by removing noise, such as special characters and stopwords, and performing tokenization and stemming.
 Feature Engineering: Extract relevant features from the text data and encode categorical variables.
-Model Building: Train machine learning classification models, such as Naive Bayes or LSTM, on the preprocessed text data to classify reviews into sentiment categories.
+Model Building: Train machine learning classification models on the preprocessed text data to classify reviews into sentiment categories.
 Model Evaluation: Evaluate the performance of the trained models using metrics such as precision, recall, F1-score, and accuracy.
 Visualization: Visualize the results and insights obtained from the analysis using various plots and charts.
 Interpretation: Interpret the findings and provide insights into the sentiment expressed in the product reviews.
